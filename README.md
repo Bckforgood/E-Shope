@@ -41,6 +41,8 @@ We welcome contributions! If you'd like to contribute to [Project Name], please 
     Push to the branch: git push origin feature/your-feature-name.
     Submit a pull request.
 
+Access E-Shope BY visiting https://bckforgood.github.io/E-Shope/
+
 Connect with Us
 - [Twitter](https://twitter.com/abderrazzakkhb2)
 - [LinkedIn](https://www.linkedin.com/in/abderrazak-khbaza-bb8273173/)
